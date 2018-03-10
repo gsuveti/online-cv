@@ -7,15 +7,12 @@
  * Website: http://themes.3rdwavemedia.com/
 */
 /* ======= Base ======= */
-
-@media print
-{
-  .no-print, .no-print *
-  {
+@media print {
+  .no-print,
+  .no-print * {
     display: none !important;
   }
 }
-
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
