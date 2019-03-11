@@ -1,13 +1,4 @@
 - skill:
-  name: Java
-  level: 100%
-- skill:
-  name: Spring
-  level: 90%
-- skill:
-  name: Software design
-  level: 90%
-- skill:
   name: Javascript
   level: 100%
 - skill:
@@ -20,8 +11,17 @@
   name: React
   level: 98%
 - skill:
+  name: Java
+  level: 100%
+- skill:
+  name: Spring
+  level: 90%
+- skill:
+  name: Software design
+  level: 90%
+- skill:
   name: Design thinking
   level: 98%
 - skill:
-  name: Sketch, Illustrator & Photoshop
+  name: Sketch, Figma, Illustrator & Photoshop
   level: 60%

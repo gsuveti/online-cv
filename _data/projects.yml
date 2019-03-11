@@ -1,23 +1,28 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: ""
+
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Well delivery platform
+    tagline: "Platform for delivery management and tracking consisting of a CRM, operational transport system,
+     truck fleet tracking, mobile application for drivers, integration with GPS systems, ERP"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: primeng-material theme
+    link: "https://primeng-material-theme.firebaseapp.com/primeng-material/forms"
+    tagline: "Custom material theme for PrimeNG UI component library build with scss and css variables"
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: Mutual Funds Analysis
+    link: "https://funds-analysis-dev.firebaseapp.com"
+    tagline: "Online tool developed with firebase & angular to search and compare mutual funds portfolios"
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: Gauss
+    tagline: "Web application for resource planning, personnel time-keeping, car fleet tracking and cost control,
+     integrated with an ERP enterprise suite, GPS system, time-tracking system"
   - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: TOPROP
+    tagline: "Web application for a real estate search engine, featuring smart searches and interactive map"
+  - project:
+    title: Infrastructure construction and materials management for Technocer
+    tagline: "Project Portfolio Management & ERP platform for construction industry including
+     construction materials delivery tracking, truck fleet fuel tracking and cost control,
+     consisting of a server and web app, a mobile app and a desktop app, using distributed database system,
+     integrated with industrial scales."
