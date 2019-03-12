@@ -1,5 +1,5 @@
 - skill:
-  name: Javascript
+  name: Javascript & TS
   level: 100%
 - skill:
   name: HTML5 & CSS
@@ -13,6 +13,9 @@
 - skill:
   name: Java
   level: 100%
+- skill:
+  name: Android
+  level: 80%
 - skill:
   name: Spring
   level: 90%

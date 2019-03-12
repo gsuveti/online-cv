@@ -12,14 +12,17 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-5
 style: styles-6
 sass:
-    sass_dir: assets/scss
+  sass_dir: assets/scss
 
 
 #Profile information
 name: George Suveti
 tagline: Full Stack Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'full stack dev | ux/ui enthusiast'
+summary: 'Full stack developer | ux/ui enthusiast <br><br>
+Versatile Software Developer with 5+ years of experience designing,
+developing, and managing complex enterprise and end-user applications. Specialized in Angular, React and responsive design.
+Solid experience on mobile development in Android and ionic. Extensive knowledge with backend frameworks: expressJS, nodeJS or Spring '
 
 #sidebar links
 email: george.suveti@gmail.com

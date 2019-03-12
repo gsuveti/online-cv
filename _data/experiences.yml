@@ -3,14 +3,15 @@
   time: 2018 - Present
   company: Irian, Timisoara, RO
   details: "Software architecture, UI design and development for multiple projects.<br>
-   Frontend: ui architecture, development of custom components,
-    app optimization, server side rendering, UI testing<br>
-   Backend: micro-services architecture, development of REST APIs, data modeling"
+   Responsibilities: ui architecture, development of custom components,
+    app optimization, server side rendering, UI testing, micro-services architecture, development of REST APIs, data modeling"
 - experience:
   role: Trainer & mentor
   time: 2018 - Present
   company: Irian, Timisoara, RO
-  details: "Training material preparation and training delivery for Angular framework<br>
+  details: "Trainer for the Angular course for students. The course focuses on the Angular framework and how it can be
+  used to create modern web applications. Besides Angular, the course offers an introduction to fundamental JS topics,
+  design patterns and to OOP programming using TypeScript.<br>
   Mentor for the HackTM event (2016-2018) on the frontend subject"
 - experience:
   role: Lead web developer
