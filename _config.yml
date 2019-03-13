@@ -10,9 +10,9 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-3
 #style: styles-4
 #style: styles-5
-style: styles-6
+style: main
 sass:
-  sass_dir: assets/scss
+  style: compact
 
 
 #Profile information
@@ -25,7 +25,7 @@ developing, and managing complex enterprise and end-user applications. Specializ
 Solid experience on mobile development in Android and ionic. Extensive knowledge with backend frameworks: expressJS, nodeJS or Spring '
 
 #sidebar links
-email: george.suveti@gmail.com
+email: george.suveti@irian.ro
 phone: 0040 740 561 805
 #website: blog.webjeda.com #do not add http://
 linkedin: gsuveti
