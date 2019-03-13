@@ -17,7 +17,7 @@ sass:
 
 #Profile information
 name: George Suveti
-tagline: Full Stack Developer
+tagline: Frontend developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Frontend developer | ux/ui enthusiast <br><br>
 Versatile Software Developer with 5+ years of experience designing,
