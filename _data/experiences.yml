@@ -1,23 +1,31 @@
 - experience:
-  role: Fullstack developer
+  role: Frontend tech lead
   time: 2018 - Present
   company: Irian, Timisoara, RO
   details: "Software architecture, UI design and development for multiple projects.<br>
    Responsibilities: ui architecture, development of custom components,
-    app optimization, server side rendering, UI testing, micro-services architecture, development of REST APIs, data modeling"
+    app optimization, server side rendering, UI testing, development of REST APIs, data modeling"
+- experience:
+  role: Lead web developer
+  time: 2015 - 2017
+  company: Toprop GmbH, Vienna, AT
+  details: "React web application, wordpress blog & several backend micro-services for a real estate search platform<br>
+  Tasks:<br>
+  - design and develop custom UI components on top of React Bootstrap<br>
+  - implement state management with immutable & react-redux<br>
+  - implement server-side rendering <br>
+  - implement social authentication & social sharing methods in react<br>
+  - migrate legacy javascript code to typescript<br>
+  - design and develop a module that generates email templates from react pages<br>
+  "
 - experience:
   role: Trainer & mentor
-  time: 2018 - Present
+  time: 2014 - Present
   company: Irian, Timisoara, RO
   details: "Trainer for the Angular course for students. The course focuses on the Angular framework and how it can be
   used to create modern web applications. Besides Angular, the course offers an introduction to fundamental JS topics,
   design patterns and to OOP programming using TypeScript.<br>
   Mentor for the HackTM event (2016-2018) on the frontend subject"
-- experience:
-  role: Lead web developer
-  time: 2015 - 2017
-  company: Toprop GmbH, Vienna, AT
-  details: "React web application, wordpress blog & several backend micro-services for a real estate search platform"
 - experience:
   role: Mobile & web developer
   time: 2014 - 2015

@@ -19,7 +19,7 @@ sass:
 name: George Suveti
 tagline: Full Stack Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Full stack developer | ux/ui enthusiast <br><br>
+summary: 'Frontend developer | ux/ui enthusiast <br><br>
 Versatile Software Developer with 5+ years of experience designing,
 developing, and managing complex enterprise and end-user applications. Specialized in Angular, React and responsive design.
 Solid experience on mobile development in Android and ionic. Extensive knowledge with backend frameworks: expressJS, nodeJS or Spring '
