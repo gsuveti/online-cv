@@ -2,9 +2,8 @@
 body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
-  background: $smoky-white;
+  background: #fff;
   font-size: 14px;
-  padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -40,7 +39,6 @@ p {
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
-  @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
 }
 
 .sidebar-wrapper {
@@ -269,6 +267,32 @@ p {
   .level-bar-inner {
     height: 12px;
     background: lighten($theme-color, 15%);
+  }
+}
+
+.other-skills {
+  .skill {
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 12px;
+    display: inline-flex;
+
+    &:after {
+      content: "";
+      padding: 2px;
+      width: 2px;
+      height: 3px;
+      background: gray;
+      border-radius: 50%;
+      margin: 6px 8px;
+    }
+
+    &:last-child {
+      &:after {
+        content: none;
+
+      }
+    }
   }
 }
 

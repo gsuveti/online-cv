@@ -8,258 +8,219 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: George Suveti
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: george.suveti@gmail.com
+    phone: 0040 740 561 805
+    timezone:
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    #    linkedin: gsuveti
+    #    github: gsuveti
     telegram: # add your nickname without '@' sign
-    gitlab:
+    #    gitlab: gsuveti
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #    twitter: '@gsuveti'
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+    #    interests:
+    #        title: Interests
+    #        info:
+    #            -   item: Graphic design
+    #            -   item: Recreational maths
+    #            -   item: Skiing
+    #            -   item: Jogging
+    #            -   item: Cooking
 
     interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+        title: Interests
+        info:
+            -   item: Graphic design
+                link:
 
-        - item: Snowboarding
-          link:
+            -   item: Recreational maths
+                link:
 
-        - item: Cooking
-          link:
+            -   item: Skiing
+                link:
+
+            -   item: Jogging
+                link:
 
 career-profile:
+    position: Full Stack Developer
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: 'Frontend developer, ux/ui enthusiast <br><br>
+    Versatile Software Developer with 10+ years of experience designing,
+    developing, and managing complex enterprise and end-user applications. Specialized in Angular, React and responsive design.
+    Solid experience on mobile development in Android and ionic. Extensive knowledge with backend frameworks: expressJS, nodeJS or Spring'
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        -   degree: Bachelor’s Degree in Computer Science
+            university: Politehnica University of Timisoara
+            time: 2011 - 2015
 
 experiences:
     title: Experiences
+    pageBreakAfter: true
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        -   role: Frontend tech lead
+            time: 2018 - Present
+            company: Irian, Timisoara, RO
+            details: "Software architecture, UI design and development for multiple projects.<br>
+           Responsibilities: UI architecture, development of custom components,
+            app optimization, server side rendering, UI testing, development of REST APIs, data modeling<br>
+            Coach the frontend team, offering hands-on guidance and conducting code reviews to enhance the team's code quality and technical skill set."
+        -   role: Lead web developer
+            time: 2015 - 2017
+            company: Toprop GmbH, Vienna, AT
+            details: "React web application, wordpress blog & several backend micro-services for a real estate search platform<br>
+          Tasks:<br>
+          - design and develop custom UI components on top of React Bootstrap<br>
+          - implement state management with immutable & react-redux<br>
+          - implement server-side rendering <br>
+          - implement social authentication & social sharing methods in react<br>
+          - migrate legacy javascript code to typescript<br>
+          - design and develop a module that generates email templates from react pages<br>
+          "
+        -   role: Trainer & mentor
+            time: 2014 - Present
+            company: Irian, Timisoara, RO
+            details: "Trainer for the Angular course for students. The course focuses on the Angular framework and how it can be
+          used to create modern web applications. Besides Angular, the course offers an introduction to fundamental JS topics,
+          design patterns and to OOP programming using TypeScript.<br>
+          Mentor for the HackTM event (2016-2018) on the frontend subject"
+        -   role: Mobile & web developer
+            time: 2014 - 2015
+            company: Irian, Timisoara, RO
+            details: "Mobile and web components for a custom Fuel-management system"
+        -   role: UX Design Lab intern
+            time: 2013
+            company: Irian, Timisoara, RO
+            details: "Design introduction • Visual Design basics • Interaction Design basics • Design process"
+        -   role: Mobile Developer
+            time: 2013 - 2014
+            company: Guardus(now Zeiss Group), Timisoara
+            details: "Developing responsive android & angular mobile applications for various components in a Manufacturing Execution System"
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        -   title: Bundesschatz
+            link: https://www.bundesschatz.at/
+            tagline: "Developed the frontend of Bundesschatz, an Austrian government platform enabling private citizens to invest in treasury
+  bills directly. Contributed to system architecture decisions and collaborated with a design team to shape the user
+  experience across the customer-facing application and the corporate portal for institutional clients. Implemented UI
+  components across both surfaces, ensuring accurate translation of designs into functional, consistent interfaces."
+        -   title: ABLO portal
+            link: https://ablo.at/
+            tagline: "Bike leasing platform that allows companies to offer bike leasing options to their employees by simplifying the interaction between companies, employees and retailers. This solution promotes sustainable commuting and a healthier lifestyle."
+        -   title: HIN Init PW
+            link: https://www.hin.ch/
+            tagline: "User-friendly solution that streamlined the process of creating and recovering passwords, enhancing a sophisticated IAM framework."
+        -   title: earnedIT
+            link: https://oit.ch/earnedit/
+            tagline: " Project & Resource Management platform that dynamically calculates actual project costs and analyzes key performance indicators (KPIs) against the planning baseline. The platform provides real-time insights into project health and program success, empowering effective decision-making and optimizing project outcomes"
+        -   title: Well delivery platform
+            tagline: "Platform for delivery management and tracking consisting of a CRM, operational transport system,
+     truck fleet tracking, mobile application for drivers, integration with GPS systems, ERP"
+        -   title: TOPROP
+            tagline: "Web application for a real estate search engine, featuring smart searches and interactive map"
+        -   title: primeng-material theme
+            link: "https://primeng-material-theme.firebaseapp.com/primeng-material/forms"
+            tagline: "Custom material theme for PrimeNG UI component library build with scss and css variables"
+        -   title: Mutual Funds Analysis
+            link: "https://funds-analysis-dev.firebaseapp.com"
+            tagline: "Online tool developed with firebase & angular to search and compare mutual funds portfolios"
+        -   title: Gauss
+            tagline: "Web application for resource planning, personnel time-keeping, car fleet tracking and cost control,
+     integrated with an ERP enterprise suite, GPS system, time-tracking system"
+        -   title: Infrastructure construction and materials management for Technocer
+            tagline: "Project Portfolio Management & ERP platform for construction industry including
+     construction materials delivery tracking, truck fleet fuel tracking and cost control,
+     consisting of a server and web app, a mobile app and a desktop app, using distributed database system,
+     integrated with industrial scales."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#        You can list your open source software contributions in this
+#        section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#        Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#        -   title: Tempo
+#            link: "#"
+#            tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#        -   title: Atom
+#            link: "#"
+#            tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#        -   title: Delta
+#            link: "#"
+#            tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#publications:
+#    title: Publications
+#    intro: |
+#        You can list your publications in this section. Lorem ipsum dolor sit
+#        amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#        bibendum fringilla a eu lectus.
+#    papers:
+#        -   title: The Art of Computer Programming
+#            link: "#"
+#            authors: Donald E. Knuth
+#            conference: Addison-Wesley, 1968
+#
+#        -   title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#            link: "#"
+#            authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#            conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#        -   title: A syntax directed compiler for Algol 60
+#            link: "#"
+#            authors: Edgar T. Irons
+#            conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
-
+    pageBreakAfter: true
     toolset:
-      - name: Python & Django
-        level: 98%
+        -   name: Javascript & TS
+            level: 100%
+        -   name: HTML5 & CSS
+            level: 100%
+        -   name: Angular
+            level: 100%
+        -   name: React
+            level: 98%
+        -   name: Java
+            level: 100%
+        -   name: Android
+            level: 80%
+        -   name: Spring
+            level: 90%
+        -   name: Software design
+            level: 90%
+        -   name: Design thinking
+            level: 98%
+        -   name: Sketch, Figma, Illustrator & Photoshop
+            level: 60%
 
-      - name: Javascript & jQuery
-        level: 98%
 
-      - name: Angular
-        level: 98%
+languages:
+    title: Languages
+    info:
+        -   idiom: Romanian
+            level: Native
+        -   idiom: English
+            level: Advanced
+        -   idiom: German
+            level: Basic
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer:
